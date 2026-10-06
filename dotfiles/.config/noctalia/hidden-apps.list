@@ -1,4 +1,4 @@
-# Lista de apps del menu. Pon true para OCULTAR, false para MOSTRAR.
+# Lista de apps del menu. Pon true para MOSTRAR, false para OCULTAR.
 # Tras editar, ejecuta: ~/.config/noctalia/hide-apps.sh
 # Para refrescar esta lista: ~/.config/noctalia/sync-hidden-apps.sh
 #
